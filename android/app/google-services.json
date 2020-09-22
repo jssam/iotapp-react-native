@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "24785340611",
+    "firebase_url": "https://iot-startup-b5e8e.firebaseio.com",
+    "project_id": "iot-startup-b5e8e",
+    "storage_bucket": "iot-startup-b5e8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24785340611:android:bab3293238bab9a4dc3a76",
+        "android_client_info": {
+          "package_name": "com.iotstartupdksam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24785340611-rvddmra4vkrll3812hchm95e9t2scmfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS7-sIQ2612fKb-9dd5IMdSB6paXU3idU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24785340611-rvddmra4vkrll3812hchm95e9t2scmfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
