@@ -52,7 +52,26 @@ const home = () => {
 };
 
 const styles = StyleSheet.create({
- 
+  container: {
+    height:"100%",
+  backgroundColor:"#2D2D2D",
+  flex:1,
+  width:"100%",
+  flexDirection:"column"
+  }, container1:{marginLeft:5,
+  marginRight:5,
+  width:"100%",
+  borderWidth:10,
+  borderColor:"black",
+  
+  borderRadius:5,
+  flex:1,
+  },
+  image:{
+  width:"100%",
+  height:170,    
+  borderRadius:5
+  },
 });
 
 export default home;
