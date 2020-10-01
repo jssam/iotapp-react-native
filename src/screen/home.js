@@ -52,7 +52,7 @@ const home = () => {
 };
 
 const styles = StyleSheet.create({
-  container: {
+   container: {
     height:"100%",
   backgroundColor:"#2D2D2D",
   flex:1,
